@@ -107,6 +107,6 @@ To see if e.g. your filter lists are valid without actually changing anything in
 
 MIT License. See `LICENSE` for more information..
 
-## Donations
+## Donations 
 
 If you would like to donate to support this project, you can do so via Liberapay - click the Sponsor button or see my GitHub profile for the link.
